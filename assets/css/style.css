@@ -1221,6 +1221,11 @@ input {
     .questions__description{
         padding: 0 1.25rem 1.25rem 2.5rem;
     }
+
+    #theme-switch{
+    top: 10%;
+    left: 5%;
+    }
 }
 
 /* For medium devices */
@@ -1329,6 +1334,11 @@ input {
         align-items: center;
     }
 
+    #theme-switch{
+    top: 10%;
+    left: 5%;
+    }
+
 
 }
 
@@ -1364,6 +1374,11 @@ input {
     .contact__container{
         grid-template-columns: 1fr;
         row-gap: 2rem;
+    }
+
+    #theme-switch{
+    top: 10%;
+    left: 5%;
     }
 }
 
@@ -1408,6 +1423,11 @@ input {
     .content{
         left: 25%;
         align-items: center;
+    }
+
+    #theme-switch{
+    top: 10%;
+    left: 5%;
     }
 
 
